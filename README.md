@@ -1,6 +1,4 @@
 # Gemail-Hack
-# credit : bc-hacktoolkit by supreme destructor
-
 <h1 align="center"> Bc-hackertools supreme destructor</h1>
 <p align="center">  
   

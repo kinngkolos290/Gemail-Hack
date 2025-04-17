@@ -13,7 +13,7 @@
 # Comment l'instaler
 ```
  git clone https://github.com/kinngkolos290/Gemail-Hack
-    cd Gemail-Hack
+cd Gemail-Hack
  chmod +x gemailhack.py
  python gemailhack.py
  ScreenShot

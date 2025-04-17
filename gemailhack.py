@@ -1,19 +1,19 @@
 #!/usr/bin/python
-'''create by Ha3MrX'''
+'''create by supreme destructor'''
 
 import smtplib
 from os import system
 
 def main():
    print '================================================='
-   print '               create by Ha3MrX                  '
+   print '               create by destructor 50938025349                 '
    print '================================================='
    print '               ++++++++++++++++++++              '
    print '\n                                               '
    print '  _,.                                            '
    print '                                                 '
    print '                                                 '
-   print '           HA3MrX                                '
+   print '           50938025349                                '
    print '       _,.                   '
    print '     ,` -.)                  '
    print '    ( _/-\\-._               '

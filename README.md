@@ -8,7 +8,10 @@
 # to ack victim account.Brute force attack is the only successful method to hack account
 # but this process will take long time depend upon the length of password.
 
-### git clone https://github.com/Ha3MrX/Gemail-Hack
+# visite wa channel https://whatsapp.com/channel/0029Vb01pp6ICVfhhRraMK22
+
+
+### git clone https://github.com/kinngkolos290/Gemail-Hack
     
 ### cd Gemail-Hack
 

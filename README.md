@@ -6,7 +6,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;BC+toolkits+BY+EMPEROR+DESTRUCTOR;RELEASED+28.09.24" alt="Typing SVG" /></a>
   </p>
-    <a href="https://ibb.co/MsM8G1b"><img src="https://files.catbox.moe/v24aew.jpeg" alt="IMG-20240906-154743-430" border="0"></a>
+    <a href="https://ibb.co/MsM8G1b"><img src="https://files.catbox.moe/82j3tr.jpeg" alt="IMG-20240906-154743-430" border="0"></a>
 <p align="center">
 <pIP-destroyer align="center">
 <a href="https://github.com/kinngkolos290/IP-destroyer-"><img title="Author" src="https://img.shields.io/badge/HINATA  BOT-black?style=for-the-badge&logo=github"></a>
